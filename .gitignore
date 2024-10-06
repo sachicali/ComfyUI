@@ -21,3 +21,6 @@ venv/
 *.log
 web_custom_versions/
 .DS_Store
+.env
+discord_bot.py
+
